@@ -1,5 +1,5 @@
-# cherub
-Game Boy emulator for TempleOS ported to ZealOS
+
+# Game Boy emulator for TempleOS ported to ZealOS
 
 This is a work in progress. A lot of things are broken.
 
